@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-⠀⠀⠀⠀⠀https://media.tenor.com/F9PlAbrqbcwAAAAM/sanji-upscale-sanji.gif⠀⠀
+⠀⠀⠀⠀⠀![alt text](image.png)
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
