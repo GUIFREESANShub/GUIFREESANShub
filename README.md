@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-⠀⠀⠀⠀⠀![alt text](<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/ca70f052-1673-418c-84cc-5069dfa898b6" />)
+⠀⠀⠀⠀⠀![alt text]
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
