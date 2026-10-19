@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-https://media1.tenor.com/m/ihOEl0D22CIAAAAC/sanji-one-piece.gif
+https://media.tenor.com/m/ihOEl0D22CIAAAAC/sanji-one-piece.gif
